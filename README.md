@@ -57,6 +57,7 @@ The portfolio combines Python programming with my background in quantitative res
 
 ## Objective
 To demonstrate practical Python skills for quantitative risk, fraud analytics, model validation, and data analytics roles.
+
 ---
 
 ## Continuous Development
