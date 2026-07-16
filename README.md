@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my transition to Python for quantitative analytics, statistical modeling, risk analysis, and machine learning.
+This repository demonstrates practical applications of Python for quantitative analytics, statistical modeling, risk analysis, and machine learning through hands-on projects and documented learning exercises.
 
 The portfolio combines Python programming with my background in quantitative research, fraud analytics, and model validation.
 
