@@ -20,6 +20,7 @@ The portfolio combines Python programming with my background in quantitative res
 - Jupyter Notebook
 
 ---
+## Repository Structure
 
 | Folder | Content |
 |---------|---------|
