@@ -43,6 +43,23 @@ The portfolio combines Python programming with my background in quantitative res
 
 ---
 
+## Current Progress
+
+- ✅ Repository initialized
+- ⏳ Python Fundamentals
+- ⏳ NumPy
+- ⏳ Pandas
+- ⏳ Statistics
+- ⏳ Regression Models
+- ⏳ Machine Learning
+- ⏳ Portfolio Projects
+---
+
 ## Objective
 
 To demonstrate practical Python skills for quantitative risk, fraud analytics, model validation, and data analytics roles.
+---
+
+## Continuous Development
+
+This repository is continuously updated as I complete new learning modules and develop practical analytics projects using Python.
