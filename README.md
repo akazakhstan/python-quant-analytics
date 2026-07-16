@@ -21,29 +21,15 @@ The portfolio combines Python programming with my background in quantitative res
 
 ---
 
-## Repository Structure
-
-01_python_basics/
-Python fundamentals
-
-02_numpy/
-Numerical computing and simulations
-
-03_pandas/
-Data manipulation and analysis
-
-04_statistics/
-Statistical analysis using Python
-
-05_regression_models/
-Linear and logistic regression
-
-06_machine_learning/
-Classification, evaluation, and predictive modeling
-
-07_projects/
-Complete end-to-end analytics projects
-
+| Folder | Content |
+|---------|---------|
+| 01_python_basics | Python language fundamentals |
+| 02_numpy | Numerical computing and simulations |
+| 03_pandas | Data manipulation and analysis |
+| 04_statistics | Statistical methods with Python |
+| 05_regression_models | Linear and logistic regression |
+| 06_machine_learning | Predictive modeling and evaluation |
+| 07_projects | End-to-end analytics projects |
 ---
 
 ## Portfolio Projects
